@@ -9,3 +9,14 @@
 html {
     font-family: sans-serif;
 }
+
+body > div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#countdown {
+    text-align: center;
+}
